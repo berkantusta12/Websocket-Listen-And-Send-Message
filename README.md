@@ -12,7 +12,7 @@
 
 </p>
 
-## Beginning
+## Beginning 
 
 Clone this repository on your local machine.
 <br>
